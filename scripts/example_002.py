@@ -1,19 +1,19 @@
 # Example - 2
 # -*- coding: utf-8 -*-
 """
-@filename: example_2.py
+@filename: example_002.py
 @author: Caique Miranda
 """
 
-# Example - 2
+# Example - 002
 
 
 class Student:
-    '''''Developed by durga for python demo'''
+    '''''Developed by Miranda for python demo'''
 
     def __init__(self):
 
-        self.name = 'durga'
+        self.name = 'Miranda'
         self.age = 40
         self.marks = 80
 

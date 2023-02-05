@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-@filename: example_5.py
+@filename: example_005.py
 @author: Caique Miranda
 """
 
-# Example - 5
+# Example - 005
 
 
 class Test:

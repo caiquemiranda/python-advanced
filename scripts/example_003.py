@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-@filename: example_3.py
+@filename: example_003.py
 @author: Caique Miranda
 """
 
-# Example - 3
+# Example - 003
 
 
 class Student:
@@ -20,5 +20,5 @@ class Student:
             print("My Marks are:", self.marks)
 
 
-s1 = Student("Durga", 101, 80)
+s1 = Student("Miranda", 101, 80)
 s1.talk()
