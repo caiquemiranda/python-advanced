@@ -3,16 +3,17 @@
 @filename: example_005.py
 @author: Caique Miranda
 """
-
 # Example - 005
 
 
 class Test:
 
     def __init__(self):
+        
         print("Constructor exeuction...")
 
         def m1(self):
+            
             print("Method execution...")
 
 

@@ -3,7 +3,6 @@
 @filename: example_001.py
 @author: Caique Miranda
 """
-
 # Example - 001
 
 

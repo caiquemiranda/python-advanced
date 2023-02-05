@@ -4,7 +4,6 @@
 @filename: example_002.py
 @author: Caique Miranda
 """
-
 # Example - 002
 
 
@@ -18,6 +17,7 @@ class Student:
         self.marks = 80
 
     def talk(self):
+
         print("Hello I am :", self.name)
         print("My Age is:", self.age)
         print("My Marks are:", self.marks)
