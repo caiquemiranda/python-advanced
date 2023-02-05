@@ -14,11 +14,11 @@ class Student:
         self.rollno = rollno
         self.marks = marks
 
-        def talk(self):
+    def talk(self):
             
-            print("Hello My Name is:", self.name)
-            print("My Rollno is:", self.rollno)
-            print("My Marks are:", self.marks)
+        print("Hello My Name is:", self.name)
+        print("My Rollno is:", self.rollno)
+        print("My Marks are:", self.marks)
 
 
 s1 = Student("Miranda", 101, 80)

@@ -12,9 +12,9 @@ class Test:
         
         print("Constructor exeuction...")
 
-        def m1(self):
+    def m1(self):
             
-            print("Method execution...")
+        print("Method execution...")
 
 
 t1 = Test()
