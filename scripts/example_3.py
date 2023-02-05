@@ -1,16 +1,24 @@
-# Example - 3
-class Student: 
-    
-    def __init__(self,name,rollno,marks): 
-        self.name=name 
-        self.rollno=rollno 
-        self.marks=marks
-        
-        def talk(self):
-            print("Hello My Name is:",self.name) 
-            print("My Rollno is:",self.rollno) 
-            print("My Marks are:",self.marks) 
-             
+# -*- coding: utf-8 -*-
+"""
+@filename: example_3.py
+@author: Caique Miranda
+"""
 
-s1=Student("Durga",101,80) 
+# Example - 3
+
+
+class Student:
+
+    def __init__(self, name, rollno, marks):
+        self.name = name
+        self.rollno = rollno
+        self.marks = marks
+
+        def talk(self):
+            print("Hello My Name is:", self.name)
+            print("My Rollno is:", self.rollno)
+            print("My Marks are:", self.marks)
+
+
+s1 = Student("Durga", 101, 80)
 s1.talk()
