@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@filename: example_005.py
+@filename: example_006.py
 @author: Caique Miranda
 """
 # Example - 006
