@@ -14,17 +14,14 @@ class Customer:
     bankname = 'DURGABANK'
 
     def __init__(self, name, balance=0.0):
-
         self.name = name
         self.balance = balance
 
     def deposit(self, amt):
-
         self.balance = self.balance+amt
         print('Balance after deposit:', self.balance)
 
     def withdraw(self, amt):
-
         if amt > self.balance:
             print('Insufficient Funds..cannot perform this operation')
             sys.exit()

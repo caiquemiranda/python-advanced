@@ -11,12 +11,10 @@ class Test:
     count = 0
 
     def __init__(self):
-
         Test.count = Test.count+1
 
     @classmethod
     def noOfObjects(cls):
-
         print('The number of objects created for test class:', cls.count)
 
 

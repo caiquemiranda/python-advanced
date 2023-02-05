@@ -12,7 +12,6 @@ class Test:
 
     @classmethod
     def m1(cls):
-
         del cls.a
 
 

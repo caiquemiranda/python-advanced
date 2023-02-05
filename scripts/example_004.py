@@ -7,7 +7,6 @@
 
 
 def __init__(self, name, rollno, marks):
-    
     self.name = name
     self.rollno = rollno
     self.marks = marks

@@ -9,11 +9,9 @@
 class Test:
 
     def __init__(self):
-        
         print("Constructor exeuction...")
 
-    def m1(self):
-            
+    def m1(self):     
         print("Method execution...")
 
 

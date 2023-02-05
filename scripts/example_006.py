@@ -10,13 +10,11 @@ class Student:
     ''''' This is student class with required data'''
 
     def __init__(self, name, rollno, marks):
-
         self.name = name
         self.rollno = rollno
         self.marks = marks
 
     def display(self):
-
         print(
             f"Student Name:{self.name}\nRollno:{self.rollno} \nMarks:{self.marks}")
 

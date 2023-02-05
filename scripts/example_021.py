@@ -11,11 +11,9 @@ class Test:
     a = 10
 
     def __init__(self):
-
         self.b = 20
 
     def m1(self):
-
         self.a = 888
         self.b = 999
 

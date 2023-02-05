@@ -9,20 +9,17 @@
 class Human:
 
     def __init__(self):
-
         self.name = 'Lancy'
         self.head = self.Head()
         self.brain = self.Brain()
 
     def display(self):
-
         print("Hello..", self.name)
 
 
 class Head:
 
     def talk(self):
-
         print('Talking...')
 
 

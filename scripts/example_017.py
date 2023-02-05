@@ -11,12 +11,10 @@ class Test:
 
     @classmethod
     def m1(cls):
-
         cls.a = 888
 
     @staticmethod
     def m2():
-
         Test.a = 999
 
 

@@ -11,7 +11,6 @@ class Animal:
 
     @classmethod
     def walk(cls, name):
-
         print('{} walks with {} lEgs...'.format(name, cls.lEgs))
 
 

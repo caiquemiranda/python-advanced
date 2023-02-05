@@ -9,17 +9,14 @@
 class Student:
 
     def __init__(self, name, marks):
-
         self.name = name
         self.marks = marks
 
     def display(self):
-
         print('Hi', self.name)
         print('Your Marks are:', self.marks)
 
     def grade(self):
-
         if self.marks >= 60:
             print('You got First Grade')
 
